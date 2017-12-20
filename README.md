@@ -7,6 +7,7 @@ Machine Learning Project by Group35:
 ## Files include
 * project.ipynb - main program
 * group35.pptx - presentation ppt(more illustrations there, such as review of past techniques)
+* cnn_nn_version.ipynb - a Jupyter notebook with CNN model (Work in Progress)
 * train.zip - training images(please unzip before run the program)
 * list.csv - parked car list
 * /models/svc/pkl - saved model(you can create one by running the program)
