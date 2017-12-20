@@ -1,7 +1,5 @@
 # Automatic License Plate Recognition and Registration System
 
-* NOTE: we will complete this page and upload the ppt tonight, please visit later. Thanks.
-
 Machine Learning Project by Group35:
 * Huihua Guan
 * Yi (Roy) Luo
