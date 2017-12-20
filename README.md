@@ -6,7 +6,15 @@ Machine Learning Project by Group35:
 * Huihua Guan
 * Yi (Roy) Luo
 
-## Project Aim and Problem Fumulation
+## Files include
+* project.ipynb - main program
+* group35.pptx - presentation ppt(more illustrations there, such as review of past techniques)
+* train.zip - training images(please unzip before run the program)
+* list.csv - parked car list
+* /models/svc/pkl - saved model(you can create one by running the program)
+* /cars - test images
+
+## Project Aim
 
 We would like to make the parking easier by automatically detecting the license plates instead of distributing physical tickets when cars enter or exit the parking lot.
 
@@ -19,7 +27,7 @@ We would like to make the parking easier by automatically detecting the license 
 
 ## Evaluation
 
-To be continued
+* going to be updated
 
 ## Reference
 * http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
