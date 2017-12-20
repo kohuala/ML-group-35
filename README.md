@@ -23,10 +23,6 @@ We would like to make the parking easier by automatically detecting the license 
 * Third Step: We used the trained model to recognize characters
 * Fourth Step: We registered or delisted the estimated LP into a csv file
 
-## Evaluation
-
-* going to be updated
-
 ## Reference
 * http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
 * https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd
